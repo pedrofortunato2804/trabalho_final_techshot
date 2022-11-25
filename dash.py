@@ -39,7 +39,7 @@ angex = st.selectbox("Angina causada por exercício: (0 - não, 1 - sim)", [0, 1
 d = {
     'Age': [age],
     'Sex': [sex],
-    'ChestPainType': [chestpain],
+    'PainType': [chestpain],
     'BloodPressureRest': [bloodpressure],
     'Cholesterol': [cholesterol],
     'Glycemia': [glycemia],
